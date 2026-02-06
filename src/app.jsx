@@ -52,9 +52,9 @@ export default function App() {
 
       <footer className="bg-dark text-white-50">
         <div className="container-fluid">
-          <span className="text-reset">Author Name(s)</span>
-          <a className="text-reset" href="https://github.com/webprogramming260/simon-react">
-            Source
+          <span className="text-reset">Copied Haylee Crow</span>
+          <a className="text-reset" href="https://github.com/hayleecrow/simon-react-p1">
+            GitHub
           </a>
         </div>
       </footer>
